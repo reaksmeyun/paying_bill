@@ -55,19 +55,19 @@ nav {
     color: #fff;
     box-shadow: 0 4px 8px rgba(255, 255, 255, 0.2);
     text-align: center;
-    padding: 10px; /* Fixed the typo from "10pz" to "10px" */
-    transition: all 0.3s ease; /* Smooth transition */
-    border-radius: 8px; /* Keep corners rounded */
+    padding: 10px; 
+    transition: all 0.3s ease;
+    border-radius: 8px; 
+    border: 1px solid red;
 }
 
 .subscribe {
-    /* background-color: #ffffff; */
     display: flex;
     width: 50%;
     margin: auto;
     height: auto;
     color: #ffffff;
-    /* justify-content: space-between; */
+
 }
 .subscribe .sub {
     background-color: rgb(64, 64, 64, 0.5);
